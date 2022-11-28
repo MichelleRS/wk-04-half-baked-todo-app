@@ -1,24 +1,13 @@
-# Supabase Todo App
+# Week 04 Half-Baked: Supabase Todo App
 
-## Live Example:
+## Goal
 
-https://alchemycodelab.github.io/web-01-todo-supabase/
+Complete the todo app. Its users should only be able to perform operations on todos associated with their user.
 
-## Getting Started
+## Already Included
 
-Use [this template](https://github.com/alchemycodelab/half-baked-web-01-todo-supabase) to get started.
-
-## Learning Objectives
-
--   Perform CRUD actions on user data in supabase
-
-## Description
-
-Here is the schema for the `todos` table:
-
-![](./todos-model.png)
-
-You will be creating a to do list using Supabase. Users should only be able to perform operations on todos associated with their user. You will be using an existing supabase database for this deliverable. Authentication has already been provided for you.
+-   Existing Supabase database
+-   Authentication
 
 ## Acceptance Criteria
 
@@ -29,17 +18,7 @@ You will be creating a to do list using Supabase. Users should only be able to p
 
 ## Rubric
 
-The following is required for your assignment to be graded:
-
--   PR open from `dev` to `main`
--   PR Passes CI (lint + tests)
--   PR preview on netlify
--   At least 4 commits, for each working feature
-
-| Task                                | Points |
-| ----------------------------------- | ------ |
-| **Code Requirments**                |        |
-| Users see a list of all their todos | 2.5    |
-| Users can add todos to the database | 2.5    |
-| Users can complete todos            | 2.5    |
-| Users can delete all todos          | 2.5    |
+-   [] Users see a list of all their todos 2.5
+-   [] Users can add todos to the database 2.5
+-   [] Users can complete todos 2.5
+-   [] Users can delete all todos 2.5
