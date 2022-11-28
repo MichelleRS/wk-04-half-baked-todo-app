@@ -18,7 +18,7 @@ Complete the todo app. Its users should only be able to perform operations on to
 
 ## Rubric
 
--   [] Users see a list of all their todos 2.5
--   [] Users can add todos to the database 2.5
--   [] Users can complete todos 2.5
+-   [x] Users see a list of all their todos 2.5
+-   [x] Users can add todos to the database 2.5
+-   [x] Users can complete todos 2.5
 -   [] Users can delete all todos 2.5
